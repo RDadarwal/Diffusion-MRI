@@ -1,5 +1,5 @@
 # Diffusion-MRI
-These jupyter notebooks include diffusion MRI data analysis in order to calculate Diffusion Tensor Imaging (DTI), Diffusion Kurtosis Imaging (DKI) and Neurite Orientation Dispersion and Density Imaging (NODDI) parametric maps.
+These jupyter notebooks include diffusion MRI data analysis in order to calculate __Diffusion Tensor Imaging (DTI)__, __Diffusion Kurtosis Imaging (DKI)__ and __Neurite Orientation Dispersion and Density Imaging (NODDI)__ parametric maps.
 Pre-processing includes diffusion MRI data denoising, susceptibility-induced distortion correction using FSL TOPUP and eddy current-induced distortion and motion correction using FSL EDDY.
 
 Note that, estimation of DKI and NODDI parametric maps requires at least two different b-values. 
