@@ -10,5 +10,4 @@ Python dependencies to use these jupyter notebooks are:
 * nipype (https://nipype.readthedocs.io/en/latest/)
 * FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL)
 * AMICO (https://github.com/daducci/AMICO)
-* numpy
 * nibabel
