@@ -12,4 +12,3 @@ Python dependencies to use these jupyter notebooks are:
 * FSL (https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/FSL)
 * AMICO (https://github.com/daducci/AMICO)
 * MRtrix3 (https://www.mrtrix.org/)
-* nibabel
