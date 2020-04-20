@@ -13,4 +13,5 @@ Python dependencies to use these jupyter notebooks are:
 * AMICO (https://github.com/daducci/AMICO)
 * MRtrix3 (https://www.mrtrix.org/)
 
-![](FArgb_image.png)
+__Example dataset:__ \
+Macaca mulatta data acquired at Siemens 3T at the Aix-Marseille Université. That is a part of the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) initiative.
