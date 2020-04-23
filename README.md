@@ -14,4 +14,6 @@ Python dependencies to use these jupyter notebooks are:
 * MRtrix3 (https://www.mrtrix.org/)
 
 __Example dataset:__ \
-Macaca mulatta data acquired at Siemens 3T at the Aix-Marseille Université. That is a part of the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) initiative.
+In vivo diffusion MRI data (__Macaca mulatta brain__ scanned at Siemens 3T) provided by the Aix-Marseille Université at the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) data collections.
+
+![] (MSMT-CSD_maps.png)
