@@ -17,3 +17,4 @@ __Example dataset:__ \
 In vivo diffusion MRI data (__Macaca mulatta brain__ scanned at Siemens 3T) provided by the Aix-Marseille Université at the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) data collections.
 
 ![](MSMT-CSD_maps.png)
+![](dMRI_maps.png)
