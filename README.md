@@ -13,8 +13,13 @@ Python dependencies to use these jupyter notebooks are:
 * AMICO (https://github.com/daducci/AMICO)
 * MRtrix3 (https://www.mrtrix.org/)
 
-__Example dataset:__ \
-In vivo diffusion MRI data (__Macaca mulatta brain__ scanned at Siemens 3T) provided by the Aix-Marseille Université at the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html) data collections.
+### Citation
+#### A collaborative resource platform for non-human primate neuroimaging
+Adam Messinger, Nikoloz Sirmpilatze, Katja Heuer, Kep Kee Loh, Rogier B. Mars, Julien Sein, Ting Xu, Daniel Glen, Benjamin Jung, Jakob Seidlitz, Paul Taylor, Roberto Toro, Eduardo A. Garza-Villarreal, Caleb Sponheim, Xindi Wang, R. Austin Benn, Bastien Cagna, Rakshit Dadarwal, Henry C. Evrard, Pamela Garcia-Saldivar, Steven Giavasis, Renée Hartig, Claude Lepage, Cirong Liu, Piotr Majka, Hugo Merchant, Michael P. Milham, Marcello G.P. Rosa, Jordy Tasserie, Lynn Uhrig, Daniel S. Margulies, P. Christiaan Klink \
+bioRxiv 2020.07.31.230185; doi: https://doi.org/10.1101/2020.07.31.230185
+
+### Example dataset: 
+In vivo diffusion MRI data (__Macaca mulatta brain__ scanned at Siemens 3T) provided by the Aix-Marseille Université at the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html).
 
 ![](dMRI_maps.png)
 ![](MSMT-CSD_maps.png)
