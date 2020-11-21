@@ -14,9 +14,7 @@ Dependencies to use these Jupyter notebooks are:
 * MRtrix3 (https://www.mrtrix.org/)
 
 ### Citation
-#### A collaborative resource platform for non-human primate neuroimaging
-Adam Messinger, Nikoloz Sirmpilatze, Katja Heuer, Kep Kee Loh, Rogier B. Mars, Julien Sein, Ting Xu, Daniel Glen, Benjamin Jung, Jakob Seidlitz, Paul Taylor, Roberto Toro, Eduardo A. Garza-Villarreal, Caleb Sponheim, Xindi Wang, R. Austin Benn, Bastien Cagna, Rakshit Dadarwal, Henry C. Evrard, Pamela Garcia-Saldivar, Steven Giavasis, Renée Hartig, Claude Lepage, Cirong Liu, Piotr Majka, Hugo Merchant, Michael P. Milham, Marcello G.P. Rosa, Jordy Tasserie, Lynn Uhrig, Daniel S. Margulies, P. Christiaan Klink \
-bioRxiv 2020.07.31.230185; doi: https://doi.org/10.1101/2020.07.31.230185
+Messinger, A., Sirmpilatze, N., Heuer, K., Loh, K.K., Mars, R.B., Sein, J., Xu, T., Glen, D., Jung, B., Seidlitz, J., Taylor, P., Toro, R., Garza-Villarreal, E.A., Sponheim, C., Wang, X., Benn, R.A., Cagna, B., Dadarwal, R., Evrard, H.C., Garcia-Saldivar, P., Giavasis, S., Hartig, R., Lepage, C., Liu, C., Majka, P., Merchant, H., Milham, M.P., Rosa, M.G.P., Tasserie, J., Uhrig, L., Margulies, D.S., Klink, P.C., 2020. __A collaborative resource platform for non-human primate neuroimaging__. NeuroImage 117519. https://doi.org/10.1016/j.neuroimage.2020.117519
 
 ### Example dataset: 
 In vivo diffusion MRI data (__Macaca mulatta brain__ scanned at Siemens 3T) provided by the Aix-Marseille Université at the __PRIMatE Data Exchange__ (http://fcon_1000.projects.nitrc.org/indi/indiPRIME.html).
