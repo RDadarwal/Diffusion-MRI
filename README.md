@@ -3,7 +3,7 @@ These Jupyter notebooks include diffusion MRI data analysis to calculate __Diffu
 
 __Pre-processing__ Jupyter notebook includes data __denoising__ using DIPY, susceptibility-induced distortion correction using FSL __TOPUP__ and eddy current-induced distortion and motion correction using FSL __EDDY__.
 
-Note: estimation of DKI, NODDI, and MSMT-CSD modeled parametric maps require diffusion-weighted MRI data acquired for at least two b-values (e.g. 1000, 2000).
+Note: estimation of DKI, NODDI, and MSMT-CSD modeled parametric maps require diffusion-weighted MRI data acquired for at least three b-values (e.g. 0, 1000, 2000).
 
 ### Dependencies
 Dependencies to use these Jupyter notebooks are:
